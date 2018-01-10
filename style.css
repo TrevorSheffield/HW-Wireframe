@@ -1,0 +1,100 @@
+html {
+	width: 910px;
+	height: 1100px;
+	background: #777;
+	border: 5px solid #777;
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	right: 10px;
+	left: 10px;
+}
+
+header{
+	width: 890px;
+	height: 83px;
+	left: 10px;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	background: #ebebeb;
+	border: 5px solid #777
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	
+}
+
+nav
+{
+	width: 890px;
+	height: 83px;
+	left: 10px;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	background: #ebebeb;
+	border: 5px solid #777
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	
+}
+
+
+body {
+	width: 900px;
+	height: 1000px;
+	right: 10px;
+	left: 10px;
+	background: #777;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #777;
+	margin: 5px 5px 5px 5px;
+}
+
+section {
+	float: left;
+	width: 465px;
+	height: 278px;
+	left: 10px;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	background: #ebebeb;
+	border: 1px solid #ebebeb;
+	
+	padding: 18px 10px 10px 10px;
+	margin: 5px 5px 5px 5px;
+}
+
+article {
+	
+	width: 435px;
+	height: 222px;
+	left: 10px;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	background: #777;
+	padding: 18px 10px 10px 10px;
+
+	margin: 5px 5px 5px 5px;
+}
+
+h1, h2, h3, p {
+	
+	width: 401px;
+	height: 50px;
+	left: 10px;
+	top: 10x;
+	right: 10px;
+	bottom: 10px;
+	background: #ebebeb;
+	padding: 18px 10px 10px 10px;
+	border: 1px solid #777;
+	margin: 10px 5px 5px 5px;
+
+}
+
+
+
+
+
